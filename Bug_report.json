@@ -3,13 +3,13 @@
         "Summary":"The sign in button is non-clickable on main page",
         "Description":"The button Sign In does not work on main page",
         { 
-        "ER":"Opens Sign In page when click on the button sign in",
+        "ER":"Opens Sign In page when click on the button Sign In",
         "AR":"The Button Sign In does not work when user click on it"
 }
-        "STR":"Open main page, click "Sign In" button",
+        "STR":"Open main page, click Sign In button",
 "Reproducibility":"Always",
 "Severity":"Critical",
-"Priority";"Very high",
+"Priority":"Very high",
 "Workarounds":"Yes",
 "Status":"new",
 "Author":"Alena Kirylenka",
